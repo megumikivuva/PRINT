@@ -1,4 +1,4 @@
-# PRINT
+# print
 
 ### Megumi Kivuva mk5730@bard.edu
 ### 2/4/2021
